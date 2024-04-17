@@ -10,7 +10,6 @@
 <p align="center">
 <img src="./docs/top.png"/>
 
-<img src="./docs/core.png"/>
 </p>
 
 # Quick setup
